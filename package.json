@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "personal resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheYueKai/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheYueKai/resume/issues"
+  },
+  "homepage": "https://github.com/SheYueKai/resume#readme",
+  "dependencies": {}
+}
