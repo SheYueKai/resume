@@ -5,6 +5,9 @@
     font-family: KaiTi;
     line-height: 1;
 }
+em{
+    font-style: normal;
+}
 ul{
     list-style: none;
 }
@@ -78,4 +81,7 @@ body{
     font-family: 'Times New Roman';
     font-weight: lighter;
     color: #f03f3b;
+}
+.project-list li .content em{
+    font-family: 'Times New Roman';
 }
